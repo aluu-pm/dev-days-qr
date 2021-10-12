@@ -2,6 +2,7 @@
   "action": {
     "apply": "Aplicar",
     "applyAll": "Aplicar todo",
+    "calendar": "Calandrar",
     "calibrate": "Calibrar",
     "cancel": "Cancelar",
     "clear": "Borrar",
@@ -77,6 +78,7 @@
     "callout": "Llamada",
     "crop": "Recortar página",
     "caret": "Circunflejo",
+    "dateFreeText": "Calendario",
     "formFillCheckmark": "Garrapata",
     "formFillCross": "Cruzar",
     "distanceMeasurement": "Medición de distancia",
@@ -142,6 +144,7 @@
     "SBRejected": "Rechazado"
   },
   "component": {
+    "attachmentPanel": "Archivos adjuntos",
     "leftPanel": "Panel",
     "toolsHeader": "Herramientas",
     "searchOverlay": "Buscar",
@@ -176,6 +179,7 @@
     "noAnnotationsReadOnly": "Este documento no tiene anotaciones.",
     "noAnnotationsFilter": "Empiece a hacer anotaciones y los filtros aparecerán aquí.",
     "noOutlines": "Este documento no tiene esquema.",
+    "noAttachments": "Este documento no tiene anexos.",
     "noResults": "No se han encontrado resultados.",
     "numResultsFound": "resultados encontrados",
     "notSupported": "Ese tipo de archivo no es compatible.",
@@ -201,7 +205,10 @@
     "unpostedComment": "Comentario no publicado",
     "lockedLayer": "La capa está bloqueada",
     "layerVisibililtyNoChange": "La visibilidad de la capa no se puede cambiar",
-    "untitled": "Intitulado"
+    "untitled": "Intitulado",
+    "embeddedFiles": "Archivos incrustados",
+    "fileAttachmentAnnotations": "Anotaciones de archivos adjuntos",
+    "pageNum": "Número de página"
   },
   "option": {
     "notesOrder": {
